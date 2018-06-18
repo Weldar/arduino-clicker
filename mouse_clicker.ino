@@ -1,5 +1,3 @@
-#include <Mouse.h>
-
 /* 
  *  Name: Browser Timeout Clicker
  *  Date: 06-18-2018
@@ -7,6 +5,8 @@
  *  Author: Weldar https://gitlab.com/weldar
  *  Version 1.0
  */
+
+#include <Mouse.h>
 
 void setup() {
   // First time setup code, NEVER looped.
